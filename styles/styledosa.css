@@ -1,0 +1,46 @@
+div {
+
+	color: red;
+}
+
+li {
+	background-color: green;
+}
+
+div li {
+
+	background-color: blue;
+}
+
+h3 {
+	color: yellow;
+	font-size: 20px;
+	text-align: right;
+	background-color: cyan;
+}
+
+h3.ing{
+	color: purple;
+}
+
+h3.desc{
+	color: orange;
+}
+
+#first {
+	background-color: red;
+	font-weight: 500;
+}
+
+h1 {
+	background-color: blue;
+}
+
+ol li{
+	color: green;
+}
+
+.joshy {
+	color: black;
+}
+

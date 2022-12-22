@@ -1,0 +1,44 @@
+.head1 {
+	color: red;
+}
+
+div {
+	color: white;
+	font-family: "Monaco", monospace;
+	background-color: black;
+}
+
+ul {
+	color: white;
+	font-family: "Monaco", monospace;
+	background-color: black;
+}
+
+li {
+	color: white;
+	font-family: "Monaco", monospace;
+	background-color: black;
+}
+
+h1 {
+	color: blue;
+}
+
+h3 {
+	color: green;
+}
+body {
+	background-color: grey;
+}
+
+ol, ul{
+	color: green;
+}
+
+ol li {
+	color: green;
+}
+
+p.joshy {
+	color: white
+}
