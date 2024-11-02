@@ -1,0 +1,21 @@
+* {
+	background-color: honeydew;
+}
+.heading-container {
+	box-sizing: border-box;
+	margin: 16px auto;
+	width: 400px;
+	border: 2px solid pink;
+	padding: 8px;
+	background-color: honeydew;
+	text-align: center;
+
+}
+
+.listone {
+	box-sizing: border-box;
+	margin: 16px auto;
+	width: 400px;
+	border: 4px dotted pink;
+	background-color: honeydew;
+}
